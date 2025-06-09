@@ -131,6 +131,7 @@ main {
     border-radius: 10px;
 }
 
+/* Desktop Display */
 @media (min-width: 768px) {
     nav {
         padding: 16px 0 16px 16px;
